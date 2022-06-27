@@ -26,11 +26,11 @@ We Make Minecraft and Roblox Stuff
 <br />
 <br />
 
-<h1 align=left>Tech Stack 📚🌠</h1>
+<h1 align=left>Tech Stack 📈</h1>
 <p align=center>
 <img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniAlmax&count_private=true&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
 
-<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
+<!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=OmniAlmax&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
 <hr />
 <img align=center src="https://github-readme-stats.vercel.app/api?username=OmniAlmax&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
