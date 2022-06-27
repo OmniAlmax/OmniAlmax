@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 
 <p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/201825529333153792?bg=00000000" />
+<img align=right src="https://lanyard-profile-readme.vercel.app/api/599494596598431765?bg=00000000" />
+<img align=right src="https://lanyard-profile-readme.vercel.app/api/767317644994936832?bg=00000000" />
 <p align=left>
 Devoted to coding on my free time and writing good software since 2016 ☕. 
    
