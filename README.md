@@ -55,4 +55,4 @@ I have the most experience using these languages:
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
 <hr />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=OmniAlmax&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
+<img align=center src="https://github-readme-stats.vercel.app/api?username=OmniAlmax&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
