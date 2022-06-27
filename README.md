@@ -33,7 +33,7 @@ Current Projects:
 
 <h1 align=left>Tech Stack 📚🌠</h1>
 <p align=center>
-<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&count_private=true&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
+<img align=right src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmniAlmax&count_private=true&theme=dark&show_icons=true&layout=compact&include_all_commits=true&bg_color=00000000&title_color=00CCAA&hide_border=true" />
 <p align=left>
 I have the most experience using these languages:
 <ul>
@@ -55,27 +55,4 @@ I have the most experience using these languages:
 <!-- [![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=RiceCX&theme=dark&show_icons=true&layout=compact)](https://github.com/RiceCX)
 -->
 <hr />
-<img align=right src="https://github-readme-stats.vercel.app/api?username=RiceCX&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
-
-### Social Media
-
-<hr />
-<p align=center>
-<a target="_blank" href="https://discord.bio/p/ricecx">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />        
-</a>
-<a target="_blank" href="https://discord.gg/qvKEPrgTEt">
-  <img alt="Discord" src="https://img.shields.io/discord/876733036471914536?color=7289DA&label=My%20Server&style=for-the-badge">
-</a>
-<a target="_blank" href="https://steamcommunity.com/id/andyiscool5463">
-  <img alt="Steam" src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white">
-</a>
-<a target="_blank" href="https://ko-fi.com/ricecx/">
-  <img alt="Ko-fi" src="https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white">
-</a>
-<a target="_blank" href="https://twitter.com/andyiscool5463">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-</p>
-
-Feel free to hit me up whenever for any project related things or just to talk.
+<img align=right src="https://github-readme-stats.vercel.app/api?username=OmniAlmax&count_private=true&theme=dark&show_icons=true&bg_color=00000000&title_color=00CCAA&text_color=dddddd" />
