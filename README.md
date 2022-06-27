@@ -1,5 +1,5 @@
 <p align="center">
-<img src="/OmniAlmax Small.png" align="center" />
+<img src="/OmniAlmax Bigger.png" align="center" />
 </p>
 <hr />
 
