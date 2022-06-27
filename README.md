@@ -13,9 +13,8 @@ We Are A Games Company.
 We Make Minecraft and Roblox Stuff
    
 <br />
-<a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 <details>
-<summary>Misc.</summary>
+<summary>Misc 📊</summary>
 <br>
 <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FRiceCX" />
 <img src="https://komarev.com/ghpvc/?username=RiceCX&color=blueviolet" />
