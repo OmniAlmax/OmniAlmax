@@ -8,13 +8,9 @@
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/599494596598431765?bg=00000000" />
 <img align=right src="https://lanyard-profile-readme.vercel.app/api/767317644994936832?bg=00000000" />
 <p align=left>
-Devoted to coding on my free time and writing good software since 2016 ☕. 
+We Are A Games Company. 
    
-I’m currently learning <a href="https://www.rust-lang.org/">Rust</a> 🦀 and <a href="https://webassembly.org/">WebAssembly</a>. At the moment, I'm interested in learning distributed systems and would love to work on a project involving such. Please let me know about any sorts of projects like that as I would love to learn and contribute to it :)
-
-Current Projects:
-   - [Meditate](https://github.com/RiceCX/Meditate) - A website that provides ways of winding down and meditation.
-   - [RiceStats](https://github.com/RiceCX/RiceStats) - Tracks statistics with InfluxDB for timescale analytics as a Spigot plugin
+We Make Minecraft and Roblox Stuff
    
 <br />
 <a href='https://ko-fi.com/M4M026ALH' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
@@ -24,7 +20,7 @@ Current Projects:
 <img src="https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2FRiceCX" />
 <img src="https://komarev.com/ghpvc/?username=RiceCX&color=blueviolet" />
     
-![Metrics](https://metrics.lecoq.io/RiceCX?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
+![Metrics](https://metrics.lecoq.io/OmniAlmax?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=America%2FLos_Angeles)
 
 </details>
 </p>
