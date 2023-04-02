@@ -5,8 +5,7 @@
 
 
 <p align=center>
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/599494596598431765?bg=00000000" />
-<img align=right src="https://lanyard-profile-readme.vercel.app/api/767317644994936832?bg=00000000" />
+<p>OmniAlmax Client Soon</p>
 <p align=left>
 We Are A Games Company. 
    
